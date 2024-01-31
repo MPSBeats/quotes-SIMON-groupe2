@@ -1,2 +1,5 @@
 # quotes-SIMON-groupe2
-TP
+SIMON Sacha (initiateur)
+ROUX Dorian (collaborateur)
+ZHOU Pierre (collaborateur)
+PUYOU FILIPIC Bastien (collaborateur)
